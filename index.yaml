@@ -3,12 +3,12 @@ entries:
   seashells:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-03T16:41:24.824630034+02:00"
+    created: "2024-06-04T13:58:14.148919943+02:00"
     description: A Helm chart for Kubernetes
-    digest: 3857ed7b69f1ef7735fb67fced5f476a959958e04107e3d0bf4f17ce04095951
+    digest: ad7bfb6d2047152402218aa09442bf11084740df0844f6cd641328c7cf3a8899
     name: seashells
     type: application
     urls:
     - seashells/seashells-1.0.tgz
     version: "1.0"
-generated: "2024-06-03T16:41:24.821029188+02:00"
+generated: "2024-06-04T13:58:14.145436878+02:00"
